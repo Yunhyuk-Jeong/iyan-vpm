@@ -158,7 +158,7 @@
           "dependencies": {},
           "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.7/com.iyankim.mablendshapesyncautosetup-1.0.7.zip",
           "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "380cf3126ade660466b50e336252c7279b18d12baea6ea657fad386dd408f8e8",
+          "zipSHA256": "dddda53c5ff51241ddd329bc9376b2170bfeda518f47ada31303ca33c7419f59",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.7"
         }
