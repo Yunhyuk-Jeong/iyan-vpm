@@ -1,267 +1,267 @@
 {
-  "author": "Iyan-Kim",
-  "name": "Iyan-Kim",
-  "id": "dev.iyankim.vpm",
-  "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-  "packages": {
-    "com.iyankim.planefittocamera": {
-      "versions": {
-        "1.0.5": {
-          "name": "com.iyankim.planefittocamera",
-          "displayName": "Plane Fit To Camera Tool",
-          "version": "1.0.5",
-          "unity": "2022.3",
-          "description": "Multi-plane workflow update, Plane-only refactor, and improved Plane slot UI.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.5/com.iyankim.planefittocamera-1.0.5.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "339ee32a098ecff808228245de7edf40e986864bbe547b5c8faf48b690969b89",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
-        },
-        "1.0.6": {
-          "name": "com.iyankim.planefittocamera",
-          "displayName": "Plane Fit To Camera Tool",
-          "version": "1.0.6",
-          "unity": "2022.3",
-          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.6/com.iyankim.planefittocamera-1.0.6.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "9a84296044296cbf43ef2e6f7d83d391838c5b59c580cae33d72c48f43f38b49",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.6"
-        },
-        "1.0.7": {
-          "name": "com.iyankim.planefittocamera",
-          "displayName": "Plane Fit To Camera Tool",
-          "version": "1.0.7",
-          "unity": "2022.3",
-          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.7/com.iyankim.planefittocamera-1.0.7.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "34f17161d0b66c19e01010e3dbadaf9be89a8addfceb87b8549b32e324429fdb",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.7"
-        },
-        "1.0.8": {
-          "name": "com.iyankim.planefittocamera",
-          "displayName": "Plane Fit To Camera Tool",
-          "version": "1.0.8",
-          "unity": "2022.3",
-          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.8/com.iyankim.planefittocamera-1.0.8.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "8fa95cdaea4fb5cc2bc6dec40e127b46fe310ba1e14bc13f4bfa47a71f737575",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.8"
-        }
-      }
-    },
-    "com.iyankim.mablendshapesyncautosetup": {
-      "versions": {
-        "1.0.4": {
-          "name": "com.iyankim.mablendshapesyncautosetup",
-          "displayName": "MA Blendshape Sync Auto Setup",
-          "version": "1.0.4",
-          "unity": "2022.3",
-          "description": "Automatic setup tool for Modular Avatar Blendshape Sync. Scans blendshapes, detects matching names, and auto-generates MA Sync configurations.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.4/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "8bbc38192bd9965f61285a13355b35e4a7716a80e8f9300aaa17e6d40670d034",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
-        },
-        "1.0.5": {
-          "name": "com.iyankim.mablendshapesyncautosetup",
-          "displayName": "MA Blendshape Sync Auto Setup",
-          "version": "1.0.5",
-          "unity": "2022.3",
-          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.5/com.iyankim.mablendshapesyncautosetup-1.0.5.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "67d23fde5389c0c4bbd59c62b60a8279cbc13248d8f91278222875d6cc4fc5c6",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.5"
-        },
-        "1.0.6": {
-          "name": "com.iyankim.mablendshapesyncautosetup",
-          "displayName": "MA Blendshape Sync Auto Setup",
-          "version": "1.0.6",
-          "unity": "2022.3",
-          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.6/com.iyankim.mablendshapesyncautosetup-1.0.6.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "9c6ed73efbe4638552e242224848050ccba3cf14088ddcb93f0546d91c36847f",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.6"
-        },
-        "1.0.7": {
-          "name": "com.iyankim.mablendshapesyncautosetup",
-          "displayName": "MA Blendshape Sync Auto Setup",
-          "version": "1.0.7",
-          "unity": "2022.3",
-          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.7/com.iyankim.mablendshapesyncautosetup-1.0.7.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "dddda53c5ff51241ddd329bc9376b2170bfeda518f47ada31303ca33c7419f59",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.7"
-        },
-        "1.0.8": {
-          "name": "com.iyankim.mablendshapesyncautosetup",
-          "displayName": "MA Blendshape Sync Auto Setup",
-          "version": "1.0.8",
-          "unity": "2022.3",
-          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.8/com.iyankim.mablendshapesyncautosetup-1.0.8.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "7754793dd94d20748ab1a2d9903f7579792e448ba8662d8a38d6f82ff24d5d1f",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.8"
-        }
-      }
-    },
-    "com.iyankim.hierarchyplusrebone": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.iyankim.hierarchyplusrebone",
-          "displayName": "Hierarchy Plus Rebone",
-          "version": "1.0.0",
-          "unity": "2022.3",
-          "description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.0/com.iyankim.hierarchyplusrebone-1.0.0.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "c8a4c7f6212dd23721ffb1b30b61fa872706fb533f60943724ad185ec2ed58a2",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.0"
-        },
-        "1.0.1": {
-          "name": "com.iyankim.hierarchyplusrebone",
-          "displayName": "Hierarchy Plus Rebone",
-          "version": "1.0.1",
-          "unity": "2022.3",
-          "description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.1/com.iyankim.hierarchyplusrebone-1.0.1.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "0047ae4b297657e813d0b73bc4e80df95e8b20cb541f4a5f4d3966a2a16ca510",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.1"
-        },
-        "1.0.2": {
-          "name": "com.iyankim.hierarchyplusrebone",
-          "displayName": "Hierarchy Plus Rebone",
-          "version": "1.0.2",
-          "unity": "2022.3",
-          "description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.2/com.iyankim.hierarchyplusrebone-1.0.2.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "8283c4a5463feb0b5e19b4a37fd487b0c123acf66450e8a1f4207f4c4b68fbe4",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.2"
-        },
-        "1.0.3": {
-          "name": "com.iyankim.hierarchyplusrebone",
-          "displayName": "Hierarchy Plus Rebone",
-          "version": "1.0.3",
-          "unity": "2022.3",
-          "description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
-          "vrchatVersion": "2022.1.1",
-          "author": {
-            "name": "Iyan-Kim",
-            "email": "yunhyukjeong02@gmail.com",
-            "url": "https://github.com/Yunhyuk-Jeong"
-          },
-          "dependencies": {},
-          "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.3/com.iyankim.hierarchyplusrebone-1.0.3.zip",
-          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "d11ebf827acf7ca9bcb4f799ec887a8d28239553ad665efb15f251186b36972c",
-          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
-          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.3"
-        }
-      }
-    }
-  }
+	"author": "Iyan-Kim",
+	"name": "Iyan-Kim",
+	"id": "dev.iyankim.vpm",
+	"url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+	"packages": {
+		"com.iyankim.planefittocamera": {
+			"versions": {
+				"1.0.5": {
+					"name": "com.iyankim.planefittocamera",
+					"displayName": "Plane Fit To Camera Tool",
+					"version": "1.0.5",
+					"unity": "2022.3",
+					"description": "Multi-plane workflow update, Plane-only refactor, and improved Plane slot UI.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.5/com.iyankim.planefittocamera-1.0.5.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "339ee32a098ecff808228245de7edf40e986864bbe547b5c8faf48b690969b89",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
+				},
+				"1.0.6": {
+					"name": "com.iyankim.planefittocamera",
+					"displayName": "Plane Fit To Camera Tool",
+					"version": "1.0.6",
+					"unity": "2022.3",
+					"description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.6/com.iyankim.planefittocamera-1.0.6.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "9a84296044296cbf43ef2e6f7d83d391838c5b59c580cae33d72c48f43f38b49",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.6"
+				},
+				"1.0.7": {
+					"name": "com.iyankim.planefittocamera",
+					"displayName": "Plane Fit To Camera Tool",
+					"version": "1.0.7",
+					"unity": "2022.3",
+					"description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.7/com.iyankim.planefittocamera-1.0.7.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "34f17161d0b66c19e01010e3dbadaf9be89a8addfceb87b8549b32e324429fdb",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.7"
+				},
+				"1.0.8": {
+					"name": "com.iyankim.planefittocamera",
+					"displayName": "Plane Fit To Camera Tool",
+					"version": "1.0.8",
+					"unity": "2022.3",
+					"description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.8/com.iyankim.planefittocamera-1.0.8.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "8fa95cdaea4fb5cc2bc6dec40e127b46fe310ba1e14bc13f4bfa47a71f737575",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.8"
+				}
+			}
+		},
+		"com.iyankim.mablendshapesyncautosetup": {
+			"versions": {
+				"1.0.4": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.4",
+					"unity": "2022.3",
+					"description": "Automatic setup tool for Modular Avatar Blendshape Sync. Scans blendshapes, detects matching names, and auto-generates MA Sync configurations.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.4/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "8bbc38192bd9965f61285a13355b35e4a7716a80e8f9300aaa17e6d40670d034",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
+				},
+				"1.0.5": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.5",
+					"unity": "2022.3",
+					"description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.5/com.iyankim.mablendshapesyncautosetup-1.0.5.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "67d23fde5389c0c4bbd59c62b60a8279cbc13248d8f91278222875d6cc4fc5c6",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.5"
+				},
+				"1.0.6": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.6",
+					"unity": "2022.3",
+					"description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.6/com.iyankim.mablendshapesyncautosetup-1.0.6.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "9c6ed73efbe4638552e242224848050ccba3cf14088ddcb93f0546d91c36847f",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.6"
+				},
+				"1.0.7": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.7",
+					"unity": "2022.3",
+					"description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.7/com.iyankim.mablendshapesyncautosetup-1.0.7.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "dddda53c5ff51241ddd329bc9376b2170bfeda518f47ada31303ca33c7419f59",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.7"
+				},
+				"1.0.8": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.8",
+					"unity": "2022.3",
+					"description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.8/com.iyankim.mablendshapesyncautosetup-1.0.8.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "7754793dd94d20748ab1a2d9903f7579792e448ba8662d8a38d6f82ff24d5d1f",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.8"
+				}
+			}
+		},
+		"com.iyankim.hierarchyplusrebone": {
+			"versions": {
+				"1.0.0": {
+					"name": "com.iyankim.hierarchyplusrebone",
+					"displayName": "Hierarchy Plus Rebone",
+					"version": "1.0.0",
+					"unity": "2022.3",
+					"description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.0/com.iyankim.hierarchyplusrebone-1.0.0.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "c8a4c7f6212dd23721ffb1b30b61fa872706fb533f60943724ad185ec2ed58a2",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.0"
+				},
+				"1.0.1": {
+					"name": "com.iyankim.hierarchyplusrebone",
+					"displayName": "Hierarchy Plus Rebone",
+					"version": "1.0.1",
+					"unity": "2022.3",
+					"description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.1/com.iyankim.hierarchyplusrebone-1.0.1.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "0047ae4b297657e813d0b73bc4e80df95e8b20cb541f4a5f4d3966a2a16ca510",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.1"
+				},
+				"1.0.2": {
+					"name": "com.iyankim.hierarchyplusrebone",
+					"displayName": "Hierarchy Plus Rebone",
+					"version": "1.0.2",
+					"unity": "2022.3",
+					"description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.2/com.iyankim.hierarchyplusrebone-1.0.2.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "8283c4a5463feb0b5e19b4a37fd487b0c123acf66450e8a1f4207f4c4b68fbe4",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.2"
+				},
+				"1.0.3": {
+					"name": "com.iyankim.hierarchyplusrebone",
+					"displayName": "Hierarchy Plus Rebone",
+					"version": "1.0.3",
+					"unity": "2022.3",
+					"description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.3/com.iyankim.hierarchyplusrebone-1.0.3.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "d11ebf827acf7ca9bcb4f799ec887a8d28239553ad665efb15f251186b36972c",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.3"
+				}
+			}
+		}
+	}
 }
