@@ -6,6 +6,25 @@
 	"packages": {
 		"com.iyankim.planefittocamera": {
 			"versions": {
+				"1.0.5": {
+					"name": "com.iyankim.planefittocamera",
+					"displayName": "Plane Fit To Camera Tool",
+					"version": "1.0.5",
+					"unity": "2022.3",
+					"description": "Multi-plane workflow update, Plane-only refactor, and improved Plane slot UI.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.4/com.iyankim.planefittocamera-1.0.5.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "f675252de89def43fb96e1a0721c2c8c39fba6a90994ed9dab01ba9388bd7139",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
+				},
 				"1.0.4": {
 					"name": "com.iyankim.planefittocamera",
 					"displayName": "Plane Fit To Camera Tool",
@@ -105,6 +124,25 @@
 		},
 		"com.iyankim.mablendshapesyncautosetup": {
 			"versions": {
+				"1.0.4": {
+					"name": "com.iyankim.mablendshapesyncautosetup",
+					"displayName": "MA Blendshape Sync Auto Setup",
+					"version": "1.0.4",
+					"unity": "2022.3",
+					"description": "Automatic setup tool for Modular Avatar Blendshape Sync. Scans blendshapes, detects matching names, and auto-generates MA Sync configurations.",
+					"vrchatVersion": "2022.1.1",
+					"author": {
+						"name": "Iyan-Kim",
+						"email": "yunhyukjeong02@gmail.com",
+						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+					},
+					"dependencies": {},
+					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.3/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
+					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+					"zipSHA256": "d903fb177d9615c6ed8080d89a3e627f7dca915d90a268b82444f0bc68e11d37",
+					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
+				},
 				"1.0.3": {
 					"name": "com.iyankim.mablendshapesyncautosetup",
 					"displayName": "MA Blendshape Sync Auto Setup",
