@@ -21,7 +21,7 @@
 					"dependencies": {},
 					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.5/com.iyankim.planefittocamera-1.0.5.zip",
 					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "3e3ccfd28413e067cbbf80e3a047eddbe9db88d09cc3c638a9cff6c69c42ba69",
+					"zipSHA256": "339ee32a098ecff808228245de7edf40e986864bbe547b5c8faf48b690969b89",
 					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
 					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
 				}
@@ -44,7 +44,7 @@
 					"dependencies": {},
 					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.4/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
 					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "1ff4e670668f455ec318054cc2e65520af63a63993959f4216e37e67e3917de1",
+					"zipSHA256": "8bbc38192bd9965f61285a13355b35e4a7716a80e8f9300aaa17e6d40670d034",
 					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
 					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
 				}
