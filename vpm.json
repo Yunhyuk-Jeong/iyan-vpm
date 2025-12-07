@@ -21,7 +21,7 @@
 					"dependencies": {},
 					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.5/com.iyankim.planefittocamera-1.0.5.zip",
 					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "ebc63e18a4ee36f1f42ab2e01c89b534bbabfe157420a21a0feb30cbba9b1f5c",
+					"zipSHA256": "3e3ccfd28413e067cbbf80e3a047eddbe9db88d09cc3c638a9cff6c69c42ba69",
 					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
 					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
 				}
