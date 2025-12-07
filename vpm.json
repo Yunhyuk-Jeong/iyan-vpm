@@ -21,104 +21,9 @@
 					"dependencies": {},
 					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.4/com.iyankim.planefittocamera-1.0.5.zip",
 					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "f675252de89def43fb96e1a0721c2c8c39fba6a90994ed9dab01ba9388bd7139",
+					"zipSHA256": "ebc63e18a4ee36f1f42ab2e01c89b534bbabfe157420a21a0feb30cbba9b1f5c",
 					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
 					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
-				},
-				"1.0.4": {
-					"name": "com.iyankim.planefittocamera",
-					"displayName": "Plane Fit To Camera Tool",
-					"version": "1.0.4",
-					"unity": "2022.3",
-					"description": "Multi-plane workflow update, Plane-only refactor, and improved Plane slot UI.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.4/com.iyankim.planefittocamera-1.0.4.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "a7579a49db846b021a27f5efb890bfde684d13e65a9cecc0c07de3d51319b5a5",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.4"
-				},
-				"1.0.3": {
-					"name": "com.iyankim.planefittocamera",
-					"displayName": "Plane Fit To Camera Tool",
-					"version": "1.0.3",
-					"unity": "2022.3",
-					"description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat or general Unity workflows. 1.0.3: fixed parent scale issue and added multi-plane support.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.3/com.iyankim.planefittocamera-1.0.3.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "4d17b9e9513d6f9cbb15863c5c3abf8e7dd32815a776a651adae0ff7424d9ade",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.3"
-				},
-				"1.0.2": {
-					"name": "com.iyankim.planefittocamera",
-					"displayName": "Plane Fit To Camera Tool",
-					"version": "1.0.2",
-					"unity": "2022.3",
-					"description": "A Unity Editor tool that aligns a plane mesh to match the camera view. 1.0.2: added orthographic camera support.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.2/com.iyankim.planefittocamera-1.0.2.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "738c3048b516b21fb73fad8bf8184420625a5ea9be560bf4130000a0b4f91ef3",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.2"
-				},
-				"1.0.1": {
-					"name": "com.iyankim.planefittocamera",
-					"displayName": "Plane Fit To Camera Tool",
-					"version": "1.0.1",
-					"unity": "2022.3",
-					"description": "A Unity Editor tool that aligns a plane mesh to match the camera view. 1.0.1: localization improvements (KR/EN/JP).",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.1/com.iyankim.planefittocamera-1.0.1.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "fd27f29fe6bec92bfae6acc016fc8d8645bb4c4778af77f67a36e8b04a781ae9",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.1"
-				},
-				"1.0.0": {
-					"name": "com.iyankim.planefittocamera",
-					"displayName": "Plane Fit To Camera Tool",
-					"version": "1.0.0",
-					"unity": "2022.3",
-					"description": "A Unity Editor tool that aligns a plane mesh to match the camera view in VRChat or Unity workflows.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.0/com.iyankim.planefittocamera-1.0.0.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "869b1a934b98789207dc018de489a4278886d5a03528b03e90517053dccd848a",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.0"
 				}
 			}
 		},
@@ -139,85 +44,9 @@
 					"dependencies": {},
 					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.3/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
 					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "d903fb177d9615c6ed8080d89a3e627f7dca915d90a268b82444f0bc68e11d37",
+					"zipSHA256": "1ff4e670668f455ec318054cc2e65520af63a63993959f4216e37e67e3917de1",
 					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
 					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
-				},
-				"1.0.3": {
-					"name": "com.iyankim.mablendshapesyncautosetup",
-					"displayName": "MA Blendshape Sync Auto Setup",
-					"version": "1.0.3",
-					"unity": "2022.3",
-					"description": "Automatic setup tool for Modular Avatar Blendshape Sync. Scans blendshapes, detects matching names, and auto-generates MA Sync configurations.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.3/com.iyankim.mablendshapesyncautosetup-1.0.3.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "b9168966b705f5e5f27a5293c978cf5b55216997455c970c3a8384890c4ac300",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.3"
-				},
-				"1.0.2": {
-					"name": "com.iyankim.mablendshapesyncautosetup",
-					"displayName": "MA Blendshape Sync Auto Setup",
-					"version": "1.0.2",
-					"unity": "2022.3",
-					"description": "Automatic setup tool for Modular Avatar Blendshape Sync. Includes workflow improvements and matching logic refinements.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.2/com.iyankim.mablendshapesyncautosetup-1.0.2.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "8fa3eb15da8cc3d4c64cd0b111145edc11cd8e3114ac57f17c2c74a6189fb956",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.2"
-				},
-				"1.0.1": {
-					"name": "com.iyankim.mablendshapesyncautosetup",
-					"displayName": "MA Blendshape Sync Auto Setup",
-					"version": "1.0.1",
-					"unity": "2022.3",
-					"description": "Initial improvements and stability fixes for automatic Modular Avatar Blendshape Sync setup.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.1/com.iyankim.mablendshapesyncautosetup-1.0.1.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "c2d7bf669c503ccbdbe863ef957d11cdaef21cbcedadc226baf09e90d8b7dc13",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.1"
-				},
-				"1.0.0": {
-					"name": "com.iyankim.mablendshapesyncautosetup",
-					"displayName": "MA Blendshape Sync Auto Setup",
-					"version": "1.0.0",
-					"unity": "2022.3",
-					"description": "Initial release of the automatic Modular Avatar Blendshape Sync setup tool.",
-					"vrchatVersion": "2022.1.1",
-					"author": {
-						"name": "Iyan-Kim",
-						"email": "yunhyukjeong02@gmail.com",
-						"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
-					},
-					"dependencies": {},
-					"url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.0/com.iyankim.mablendshapesyncautosetup-1.0.0.zip",
-					"repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-					"zipSHA256": "3ce9dfdde49068900c3dbe1d938e8682ed7d5e48a131a3afa8b5733317a867f6",
-					"documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
-					"changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.0"
 				}
 			}
 		}
