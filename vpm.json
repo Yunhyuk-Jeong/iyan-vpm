@@ -162,7 +162,7 @@
           "dependencies": {},
           "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.0.0/com.iyankim.hierarchyplusrebone-1.0.0.zip",
           "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "3c249413f89f26d39e38773f22f7d2def02b51f1256f392148c3b8f56e5bfb08",
+          "zipSHA256": "c8a4c7f6212dd23721ffb1b30b61fa872706fb533f60943724ad185ec2ed58a2",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.0"
         }
