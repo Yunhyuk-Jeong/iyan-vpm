@@ -397,6 +397,25 @@
           "zipSHA256": "64e97ce4263be75ce95dd8dfbbf97306815f9a4abc225d04fd7c1b88133b9e91",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper/releases/tag/v1.0.1"
+        },
+        "1.0.2": {
+          "name": "com.iyankim.prefabmaterialremapper",
+          "displayName": "Iyan-Kim Prefab Material Remapper",
+          "version": "1.0.2",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that batch-remaps materials in Prefab assets using material slot names, similar to FBX material remapping.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper/releases/download/v1.0.2/com.iyankim.prefabmaterialremapper-1.0.2.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+          "zipSHA256": "edee4536b8f924a12bb9f10fa145e81bbcb17f4d7a083c2a8e69e517f98ef98a",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper/releases/tag/v1.0.2"
         }
       }
     }
