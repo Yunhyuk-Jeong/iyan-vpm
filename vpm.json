@@ -436,7 +436,7 @@
           "dependencies": {},
           "url": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/download/v1.0.0/com.iyankim.uvmasktool-1.0.0.zip",
           "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
-          "zipSHA256": "491328225087e165f1511625d72fec3cc9d10d1bc712fd211c3553848d3414bf",
+          "zipSHA256": "face44a8821dd63863a11e2c76bf601d71de01394c8fcc39003b385a86718888",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/tag/v1.0.0"
         }
