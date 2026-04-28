@@ -439,6 +439,25 @@
           "zipSHA256": "e6c5337067bc82f0ac9705376ad6f5d76decb87632e3304b5cfbe304108e095e",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/tag/v1.0.0"
+        },
+        "1.1.0": {
+          "name": "com.iyankim.uvmasktool",
+          "displayName": "Iyan-Kim UV Mask Tool",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "Unity Editor tool for selecting UV islands by material slot and exporting them as PNG mask textures.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/download/v1.1.0/com.iyankim.uvmasktool-1.1.0.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+          "zipSHA256": "178c25450a476d4fdedbc1a316df08bb5740954e2cf4fbc939b21aa52f92e0fd",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/tag/v1.1.0"
         }
       }
     }
