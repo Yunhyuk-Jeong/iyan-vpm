@@ -412,6 +412,25 @@
           "zipSHA256": "716e393f666306d335d2dbb7d148ab0dc0309ba47544717ae581efb7abcfda96",
           "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.0.6"
+        },
+        "1.1.0": {
+          "name": "com.iyankim.hierarchyplusrebone",
+          "displayName": "Studio Iyan Hierarchy Plus Rebone",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "A rebuilt and modernized version of HierarchyPlus. Enhances the Unity Hierarchy with colored rows, component icons, regex filtering, quick toggle buttons, and style customization.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Studio Iyan",
+            "email": "studio.iyan.official@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/download/v1.1.0/com.iyankim.hierarchyplusrebone-1.1.0.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json",
+          "zipSHA256": "1c1d60b3d8deb0f55c3bec631145c165e1bf11c1fdb543abf37c5468251cbe7f",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone/releases/tag/v1.1.0"
         }
       }
     },
