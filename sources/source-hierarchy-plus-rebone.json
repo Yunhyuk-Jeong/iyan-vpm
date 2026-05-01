@@ -1,0 +1,17 @@
+{
+  "name": "Studio Iyan Hierarchy Plus Rebone",
+  "author": "Studio Iyan",
+  "id": "dev.iyankim.hierarchy-plus-rebone.vpm",
+  "outputs": [
+    {
+      "path": "hierarchy-plus-rebone.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/hierarchy-plus-rebone.json"
+    }
+  ],
+  "packages": [
+    {
+      "id": "com.iyankim.hierarchyplusrebone",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone"
+    }
+  ]
+}

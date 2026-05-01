@@ -1,0 +1,17 @@
+{
+  "name": "Studio Iyan Plane Fit To Camera Tool",
+  "author": "Studio Iyan",
+  "id": "dev.iyankim.plane-fit-to-camera.vpm",
+  "outputs": [
+    {
+      "path": "plane-fit-to-camera.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json"
+    }
+  ],
+  "packages": [
+    {
+      "id": "com.iyankim.planefittocamera",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+    }
+  ]
+}

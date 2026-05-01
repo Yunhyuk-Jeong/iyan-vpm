@@ -2,8 +2,9 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = process.cwd();
+const sourcesDir = path.join(root, "sources");
 const catalogPath = path.join(root, "vpm.json");
-const sourceAllPath = path.join(root, "source-all.json");
+const sourceAllPath = path.join(sourcesDir, "source-all.json");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -24,7 +25,7 @@ function stable(value) {
 
 function listSourceFiles() {
   return fs
-    .readdirSync(root)
+    .readdirSync(sourcesDir)
     .filter((fileName) => /^source-.+\.json$/.test(fileName))
     .sort();
 }
@@ -50,7 +51,7 @@ const outputs = [];
 const sourcePackageNames = new Set();
 
 for (const fileName of listSourceFiles()) {
-  const source = readJson(path.join(root, fileName));
+  const source = readJson(path.join(sourcesDir, fileName));
   source.__fileName = fileName;
 
   if (!Array.isArray(source.outputs) || source.outputs.length === 0) {

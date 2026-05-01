@@ -1,0 +1,145 @@
+{
+  "author": "Studio Iyan",
+  "name": "Studio Iyan Plane Fit To Camera Tool",
+  "id": "dev.iyankim.plane-fit-to-camera.vpm",
+  "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+  "packages": {
+    "com.iyankim.planefittocamera": {
+      "versions": {
+        "1.0.5": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Plane Fit To Camera Tool",
+          "version": "1.0.5",
+          "unity": "2022.3",
+          "description": "Multi-plane workflow update, Plane-only refactor, and improved Plane slot UI.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/1.0.5/com.iyankim.planefittocamera-1.0.5.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "339ee32a098ecff808228245de7edf40e986864bbe547b5c8faf48b690969b89",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/1.0.5"
+        },
+        "1.0.6": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Plane Fit To Camera Tool",
+          "version": "1.0.6",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.6/com.iyankim.planefittocamera-1.0.6.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "9a84296044296cbf43ef2e6f7d83d391838c5b59c580cae33d72c48f43f38b49",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.6"
+        },
+        "1.0.7": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Plane Fit To Camera Tool",
+          "version": "1.0.7",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.7/com.iyankim.planefittocamera-1.0.7.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "34f17161d0b66c19e01010e3dbadaf9be89a8addfceb87b8549b32e324429fdb",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.7"
+        },
+        "1.0.8": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Plane Fit To Camera Tool",
+          "version": "1.0.8",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.8/com.iyankim.planefittocamera-1.0.8.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "8fa95cdaea4fb5cc2bc6dec40e127b46fe310ba1e14bc13f4bfa47a71f737575",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.8"
+        },
+        "1.0.9": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Plane Fit To Camera Tool",
+          "version": "1.0.9",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.9/com.iyankim.planefittocamera-1.0.9.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "184847b170c61a64f82d788ab0c8f55d2d46a1c68e3406569df7c79330879549",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.9"
+        },
+        "1.0.10": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Iyan-Kim Plane Fit To Camera Tool",
+          "version": "1.0.10",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.0.10/com.iyankim.planefittocamera-1.0.10.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "82d23cf25cb8cf43c72f5011b8859c53f4aebaf2989af179eeaacf7846121755",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.0.10"
+        },
+        "1.1.0": {
+          "name": "com.iyankim.planefittocamera",
+          "displayName": "Studio Iyan Plane Fit To Camera Tool",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "Unity Editor tool that aligns plane meshes to the camera view for VRChat and general Unity workflows.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Studio Iyan",
+            "email": "studio.iyan.official@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/download/v1.1.0/com.iyankim.planefittocamera-1.1.0.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json",
+          "zipSHA256": "37169e89071e9feaf8783cf27a05af7923580ceab18357cd5e4378c010e6ce09",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera/releases/tag/v1.1.0"
+        }
+      }
+    }
+  }
+}

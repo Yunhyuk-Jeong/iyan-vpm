@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const root = process.cwd();
+const sourcesDir = path.join(root, "sources");
 const catalogPath = path.join(root, "vpm.json");
 
 function readJson(filePath) {
@@ -18,7 +19,7 @@ function clone(value) {
 
 function listSourceFiles() {
   return fs
-    .readdirSync(root)
+    .readdirSync(sourcesDir)
     .filter((fileName) => /^source-.+\.json$/.test(fileName))
     .sort((a, b) => {
       if (a === "source-all.json") return -1;
@@ -88,7 +89,7 @@ if (!catalog.packages || typeof catalog.packages !== "object") {
 }
 
 for (const fileName of listSourceFiles()) {
-  const source = readJson(path.join(root, fileName));
+  const source = readJson(path.join(sourcesDir, fileName));
   source.__fileName = fileName;
 
   for (const output of normalizeOutputs(source)) {

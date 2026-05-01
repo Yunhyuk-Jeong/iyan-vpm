@@ -6,7 +6,7 @@ on:
   push:
     paths:
       - "vpm.json"
-      - "source-*.json"
+      - "sources/*.json"
       - "scripts/*.mjs"
       - ".github/workflows/build-listings.yml"
 
@@ -35,4 +35,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(vpm): regenerate listings"
-          file_pattern: "vpm.json index.json uv-mask-tool.json prefab-material-remapper.json ma-blendshape-sync-auto-setup.json"
+          file_pattern: "vpm.json index.json plane-fit-to-camera.json ma-blendshape-sync-auto-setup.json hierarchy-plus-rebone.json prefab-material-remapper.json uv-mask-tool.json"

@@ -1,54 +1,33 @@
 # Studio Iyan VPM Repository
 
-Studio Iyan의 Unity/VRChat 에디터 도구를 배포하는 VPM listing 저장소입니다.
+This repository publishes the VPM listings for Studio Iyan Unity and VRChat editor tools.
 
-사용자는 목적에 따라 전체 Studio Iyan listing을 추가하거나, 특정 도구만 보이는 단일 도구 listing을 VCC에 추가할 수 있습니다.
+Users can choose one of these options:
 
-## Add to VCC
+- Add the full Studio Iyan listing and see every Studio Iyan package in VCC.
+- Add a single-tool listing and only see the specific tool they want.
 
-### 전체 Studio Iyan VPM
+The full listing only exposes packages. It does not automatically install every package. If a future "install all tools" option is needed, it should be implemented as a separate meta package, not by forcing dependencies into every tool package.
 
-[Add Studio Iyan VPM to VCC](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json)
-
-수동 추가 URL:
-
-```text
-https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json
-```
-
-호환용 alias:
-
-```text
-https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/index.json
-```
-
-### 단일 도구 VPM listings
+## VPM Listing URLs
 
 | Listing | VCC Add URL | Manual URL |
 | --- | --- | --- |
-| UV Mask Tool only | [Add UV Mask Tool VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/uv-mask-tool.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/uv-mask-tool.json` |
-| Prefab Material Remapper only | [Add Prefab Material Remapper VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/prefab-material-remapper.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/prefab-material-remapper.json` |
+| Full Studio Iyan VPM | [Add Studio Iyan VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json` |
+| Full Studio Iyan VPM alias | [Add Studio Iyan VPM Alias](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/index.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/index.json` |
+| Plane Fit To Camera only | [Add Plane Fit To Camera VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/plane-fit-to-camera.json` |
 | MA Blendshape Sync Auto Setup only | [Add MA Blendshape Sync Auto Setup VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json` |
-
-전체 listing은 VCC에서 모든 Studio Iyan 패키지를 보여주지만, listing에 포함되어 있다는 이유만으로 모든 패키지를 자동 설치하지는 않습니다. 특정 도구만 VCC에 보이게 하고 싶은 사용자는 단일 도구 listing을 추가하면 됩니다.
-
-향후 "모든 도구 한 번에 설치" 기능이 필요하다면 각 도구의 `vpmDependencies`에 다른 도구를 강제로 넣지 말고, 별도 meta package를 만드는 것이 맞습니다.
-
-예정 후보:
-
-```text
-com.studioiyan.avatar-vault
-```
-
-목적: Studio Iyan 도구들을 `vpmDependencies`로 모아 설치하는 선택형 meta package.
+| Hierarchy Plus Rebone only | [Add Hierarchy Plus Rebone VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/hierarchy-plus-rebone.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/hierarchy-plus-rebone.json` |
+| Prefab Material Remapper only | [Add Prefab Material Remapper VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/prefab-material-remapper.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/prefab-material-remapper.json` |
+| UV Mask Tool only | [Add UV Mask Tool VPM](vcc://vpm/addRepo?url=https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/uv-mask-tool.json) | `https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/uv-mask-tool.json` |
 
 ## Available Packages
 
-| Package | Package ID | Listing |
+| Package | Package ID | Listings |
 | --- | --- | --- |
-| Plane Fit To Camera Tool | `com.iyankim.planefittocamera` | Full only |
+| Plane Fit To Camera Tool | `com.iyankim.planefittocamera` | Full, single-tool |
 | MA Blendshape Sync Auto Setup | `com.iyankim.mablendshapesyncautosetup` | Full, single-tool |
-| Hierarchy Plus Rebone | `com.iyankim.hierarchyplusrebone` | Full only |
+| Hierarchy Plus Rebone | `com.iyankim.hierarchyplusrebone` | Full, single-tool |
 | Prefab Material Remapper | `com.iyankim.prefabmaterialremapper` | Full, single-tool |
 | Studio Iyan UV Mask Tool | `com.iyankim.uvmasktool` | Full, single-tool |
 
@@ -58,77 +37,94 @@ com.studioiyan.avatar-vault
 
 Repository: <https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera>
 
-Unity Plane 또는 Plane-like mesh를 현재 Camera view에 맞춰 위치, 회전, 크기를 자동 조정하는 에디터 도구입니다. Perspective/Orthographic 카메라, 여러 Plane 동시 처리, 수동 거리 지정, 정사각형 모드, 뷰 기준 회전, KR/EN/JP UI, Undo를 지원합니다.
+A Unity Editor tool that fits Unity Plane or plane-like meshes to the current Camera view. It supports Perspective and Orthographic cameras, multiple Plane objects, manual distance control, square mode, view-space rotation, KR/EN/JP UI, and Undo.
 
 ### MA Blendshape Sync Auto Setup
 
 Repository: <https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup>
 
-Modular Avatar의 Blendshape Sync 컴포넌트를 여러 대상 오브젝트에 자동 설정하는 에디터 도구입니다. 소스/타겟 메시의 공통 blendshape를 감지하고, 다중 타겟, 드래그 앤 드롭, 하위 오브젝트 재귀 처리, 실시간 미리보기, KR/EN/JP UI, Undo를 지원합니다.
+A Unity Editor tool that automatically configures Modular Avatar Blendshape Sync components across target objects. It detects common blendshapes between source and target meshes and supports multiple targets, drag and drop, recursive child processing, preview, KR/EN/JP UI, and Undo.
 
 ### Hierarchy Plus Rebone
 
 Repository: <https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone>
 
-중단된 HierarchyPlus 도구를 Unity 2022.3+와 VPM/VCC 배포에 맞게 재구성한 에디터 전용 도구입니다. Hierarchy 창의 depth 색상, guide line, component icon, tag/layer label, regex filtering, 저장 설정, namespace 충돌 방지를 제공합니다.
+An editor-only rebuild of the discontinued HierarchyPlus tool for Unity 2022.3+ and VPM/VCC distribution. It adds hierarchy depth colors, guide lines, component icons, tag/layer labels, regex filtering, saved settings, and namespace-safe code.
 
 ### Prefab Material Remapper
 
 Repository: <https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper>
 
-Prefab Asset에 FBX식 material remapping workflow를 제공하는 에디터 전용 도구입니다. material slot name 기준으로 여러 renderer의 material을 일괄 교체하며, `MeshRenderer`와 `SkinnedMeshRenderer`, Prefab Asset 안전 편집, KR/EN/JP UI를 지원합니다.
+An editor-only prefab material remapping tool that brings an FBX-style material remapping workflow to Prefab assets. It remaps materials by material slot name across `MeshRenderer` and `SkinnedMeshRenderer`, edits Prefab Assets safely, and supports KR/EN/JP UI.
 
 ### Studio Iyan UV Mask Tool
 
 Repository: <https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool>
 
-Renderer의 material slot에서 사용되는 UV island를 선택하고 PNG mask texture로 내보내는 에디터 전용 도구입니다. `MeshRenderer`와 `SkinnedMeshRenderer`, UV channel 자동 감지, 선택/반전/전체 선택, Scene View highlight, padding/anti-aliasing, 최대 8192 custom resolution, KR/EN/JP UI를 지원합니다.
+An editor-only UV mask generation tool that selects UV islands from a renderer material slot and exports PNG mask textures. It supports `MeshRenderer`, `SkinnedMeshRenderer`, automatic UV channel detection, island selection tools, Scene View highlighting, padding, anti-aliasing, custom resolutions up to 8192, and KR/EN/JP UI.
 
-## Listing Generation
+## Meta Package Policy
 
-이 저장소는 루트 디렉터리를 공개 output 위치로 사용합니다.
+Do not make normal tool packages depend on unrelated Studio Iyan tools just to install everything at once.
+
+If an all-tools install option is needed later, use a separate meta package:
+
+```text
+com.studioiyan.avatar-vault
+```
+
+Purpose: install all Studio Iyan tools through explicit `vpmDependencies`.
+
+## Repository Structure
+
+The repository root is the public VPM output location.
 
 ```text
 iyan-vpm/
-  source-all.json
-  source-uv-mask-tool.json
-  source-prefab-material-remapper.json
-  source-ma-blendshape-sync-auto-setup.json
   vpm.json
   index.json
-  uv-mask-tool.json
-  prefab-material-remapper.json
+  plane-fit-to-camera.json
   ma-blendshape-sync-auto-setup.json
+  hierarchy-plus-rebone.json
+  prefab-material-remapper.json
+  uv-mask-tool.json
+  sources/
+    source-all.json
+    source-plane-fit-to-camera.json
+    source-ma-blendshape-sync-auto-setup.json
+    source-hierarchy-plus-rebone.json
+    source-prefab-material-remapper.json
+    source-uv-mask-tool.json
   scripts/
     generate-listings.mjs
     validate-listings.mjs
 ```
 
-`vpm.json`은 기존 통합 listing URL을 보존하는 canonical package catalog입니다. `source-*.json` 파일은 어떤 패키지를 어떤 output listing에 노출할지 정의합니다.
+`vpm.json` preserves the existing full listing URL. `index.json` is an alias for the same full listing. Files in `sources/` define which package IDs are exposed by each generated output.
 
-생성 명령:
+## Listing Generation
+
+Generate all listings:
 
 ```bash
 node scripts/generate-listings.mjs
 ```
 
-검증 명령:
+Validate all listings:
 
 ```bash
 node scripts/validate-listings.mjs
 ```
 
-새 단일 도구 listing을 추가하려면 `source-new-tool.json`을 추가하고, `source-all.json`에 해당 package id와 repository를 등록한 뒤 생성/검증을 실행하면 됩니다.
+To add another single-tool listing, add one `sources/source-new-tool.json` file, register the package in `sources/source-all.json`, then run generation and validation.
 
 ## Automation
 
-`.github/workflows/build-listings.yml`은 다음 이벤트에서 모든 listing을 재생성하고 검증합니다.
+`.github/workflows/build-listings.yml` regenerates and validates all listings for:
 
 - `repository_dispatch`
 - `workflow_dispatch`
-- `vpm.json`, `source-*.json`, `scripts/*.mjs`, workflow 파일 변경 push
-
-기존 `vpm.json` URL은 그대로 유지됩니다.
+- pushes that change `vpm.json`, `sources/*.json`, `scripts/*.mjs`, or the workflow file
 
 ## Author
 
