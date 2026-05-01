@@ -1,0 +1,17 @@
+{
+  "name": "Studio Iyan MA Blendshape Sync Auto Setup",
+  "author": "Studio Iyan",
+  "id": "dev.iyankim.ma-blendshape-sync-auto-setup.vpm",
+  "outputs": [
+    {
+      "path": "ma-blendshape-sync-auto-setup.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json"
+    }
+  ],
+  "packages": [
+    {
+      "id": "com.iyankim.mablendshapesyncautosetup",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+    }
+  ]
+}

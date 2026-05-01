@@ -1,0 +1,17 @@
+{
+  "name": "Studio Iyan Prefab Material Remapper",
+  "author": "Studio Iyan",
+  "id": "dev.iyankim.prefab-material-remapper.vpm",
+  "outputs": [
+    {
+      "path": "prefab-material-remapper.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/prefab-material-remapper.json"
+    }
+  ],
+  "packages": [
+    {
+      "id": "com.iyankim.prefabmaterialremapper",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper"
+    }
+  ]
+}

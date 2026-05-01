@@ -1,0 +1,37 @@
+{
+  "name": "Studio Iyan",
+  "author": "Studio Iyan",
+  "id": "dev.iyankim.vpm",
+  "outputs": [
+    {
+      "path": "vpm.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/vpm.json"
+    },
+    {
+      "path": "index.json",
+      "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/index.json"
+    }
+  ],
+  "packages": [
+    {
+      "id": "com.iyankim.planefittocamera",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+    },
+    {
+      "id": "com.iyankim.mablendshapesyncautosetup",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+    },
+    {
+      "id": "com.iyankim.hierarchyplusrebone",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-hierarchy-plus-rebone"
+    },
+    {
+      "id": "com.iyankim.prefabmaterialremapper",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-prefab-material-remapper"
+    },
+    {
+      "id": "com.iyankim.uvmasktool",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool"
+    }
+  ]
+}

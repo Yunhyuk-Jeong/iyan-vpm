@@ -1,0 +1,145 @@
+{
+  "author": "Studio Iyan",
+  "name": "Studio Iyan MA Blendshape Sync Auto Setup",
+  "id": "dev.iyankim.ma-blendshape-sync-auto-setup.vpm",
+  "url": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+  "packages": {
+    "com.iyankim.mablendshapesyncautosetup": {
+      "versions": {
+        "1.0.4": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "MA Blendshape Sync Auto Setup",
+          "version": "1.0.4",
+          "unity": "2022.3",
+          "description": "Automatic setup tool for Modular Avatar Blendshape Sync. Scans blendshapes, detects matching names, and auto-generates MA Sync configurations.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/1.0.4/com.iyankim.mablendshapesyncautosetup-1.0.4.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "8bbc38192bd9965f61285a13355b35e4a7716a80e8f9300aaa17e6d40670d034",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/1.0.4"
+        },
+        "1.0.5": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "MA Blendshape Sync Auto Setup",
+          "version": "1.0.5",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.5/com.iyankim.mablendshapesyncautosetup-1.0.5.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "67d23fde5389c0c4bbd59c62b60a8279cbc13248d8f91278222875d6cc4fc5c6",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.5"
+        },
+        "1.0.6": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "MA Blendshape Sync Auto Setup",
+          "version": "1.0.6",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-plane-fit-to-camera"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.6/com.iyankim.mablendshapesyncautosetup-1.0.6.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "9c6ed73efbe4638552e242224848050ccba3cf14088ddcb93f0546d91c36847f",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.6"
+        },
+        "1.0.7": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "MA Blendshape Sync Auto Setup",
+          "version": "1.0.7",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.7/com.iyankim.mablendshapesyncautosetup-1.0.7.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "dddda53c5ff51241ddd329bc9376b2170bfeda518f47ada31303ca33c7419f59",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.7"
+        },
+        "1.0.8": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "MA Blendshape Sync Auto Setup",
+          "version": "1.0.8",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.8/com.iyankim.mablendshapesyncautosetup-1.0.8.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "7754793dd94d20748ab1a2d9903f7579792e448ba8662d8a38d6f82ff24d5d1f",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.8"
+        },
+        "1.0.9": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "Iyan-Kim MA Blendshape Sync Auto Setup",
+          "version": "1.0.9",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Iyan-Kim",
+            "email": "yunhyukjeong02@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.0.9/com.iyankim.mablendshapesyncautosetup-1.0.9.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "19d7cc50fd60463a4a1f7feceed4e1005a09cb5c811cdd304da304ae1a0509da",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.0.9"
+        },
+        "1.1.0": {
+          "name": "com.iyankim.mablendshapesyncautosetup",
+          "displayName": "Studio Iyan MA Blendshape Sync Auto Setup",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "description": "A Modular Avatar utility that automatically detects matching blendshapes and generates Blendshape Sync configurations with no manual setup required.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Studio Iyan",
+            "email": "studio.iyan.official@gmail.com",
+            "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/download/v1.1.0/com.iyankim.mablendshapesyncautosetup-1.1.0.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/ma-blendshape-sync-auto-setup.json",
+          "zipSHA256": "dc4d23484f569012e07ee5d29eca34698f42e377afdd6b82cf100f651ee15c6f",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-ma-blendshape-sync-auto-setup/releases/tag/v1.1.0"
+        }
+      }
+    }
+  }
+}

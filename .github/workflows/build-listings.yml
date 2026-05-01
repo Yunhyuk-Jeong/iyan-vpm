@@ -1,0 +1,38 @@
+name: Build VPM listings
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  push:
+    paths:
+      - "vpm.json"
+      - "source-*.json"
+      - "scripts/*.mjs"
+      - ".github/workflows/build-listings.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build-listings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate listings
+        run: node scripts/generate-listings.mjs
+
+      - name: Validate listings
+        run: node scripts/validate-listings.mjs
+
+      - name: Commit generated listings
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(vpm): regenerate listings"
+          file_pattern: "vpm.json index.json uv-mask-tool.json prefab-material-remapper.json ma-blendshape-sync-auto-setup.json"
