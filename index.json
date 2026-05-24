@@ -574,6 +574,29 @@
           "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool/releases/tag/v1.3.0"
         }
       }
+    },
+    "com.studio-iyan.texture-vault": {
+      "versions": {
+        "1.0.3": {
+          "name": "com.studio-iyan.texture-vault",
+          "displayName": "Studio Iyan Texture Vault",
+          "version": "1.0.3",
+          "unity": "2022.3",
+          "description": "Unity Editor tool for saving texture import settings to JSON, applying a temporary Standalone BC7 / Max Size 4096 profile, and restoring the original settings.",
+          "vrchatVersion": "2022.1.1",
+          "author": {
+            "name": "Studio Iyan",
+            "email": "studio.iyan.official@gmail.com",
+            "url": "https://studio.iyan-kim.dev/"
+          },
+          "dependencies": {},
+          "url": "https://github.com/Yunhyuk-Jeong/vpm-texture-vault/releases/download/v1.0.3/com.studio-iyan.texture-vault-1.0.3.zip",
+          "repo": "https://raw.githubusercontent.com/Yunhyuk-Jeong/iyan-vpm/main/index.json",
+          "zipSHA256": "4a08d25067b856ea397111b59507db91d48ecac6c65353dd6d19b538421e8a4d",
+          "documentationUrl": "https://github.com/Yunhyuk-Jeong/vpm-texture-vault",
+          "changelogUrl": "https://github.com/Yunhyuk-Jeong/vpm-texture-vault/releases/tag/v1.0.3"
+        }
+      }
     }
   }
 }
