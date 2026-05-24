@@ -32,6 +32,10 @@
     {
       "id": "com.iyankim.uvmasktool",
       "repository": "https://github.com/Yunhyuk-Jeong/vpm-uv-mask-tool"
+    },
+    {
+      "id": "com.studio-iyan.texture-vault",
+      "repository": "https://github.com/Yunhyuk-Jeong/vpm-texture-vault"
     }
   ]
 }
